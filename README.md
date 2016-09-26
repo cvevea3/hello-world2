@@ -5,5 +5,9 @@
 40 input num
 50 for i=l to num
 60 print i, i*
-70 text i
+70 next i
 80 end
+
+
+10+888888
+
